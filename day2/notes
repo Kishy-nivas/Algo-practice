@@ -1,0 +1,8 @@
+krushkal 
+
+- sort the edges based on non-decreasing value/weight 
+-pick the minimum edge and check whether adding it will form a cycle or not 
+-if no cycle add it else ignore it 
+- to check cycle, we use union-rank 
+
+
